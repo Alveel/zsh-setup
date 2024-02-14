@@ -16,5 +16,6 @@
 ## Setup
 
 1. Backup `$HOME/.profile`
-2. Copy contents to `$HOME`
+1. `mkdir -p $HOME/.local/share`
+1. Copy contents to `$HOME`
 
